@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cecilia Liu!
 
-Welcome to my GitHub profile! I'm a Statistics and Economics third-year student at the University of British Columbia (UBC) with a passion for data and analytics.
+Welcome to my GitHub profile! I'm a Statistics and Economics third-year student at the University of British Columbia (UBC) with a passion for data analytics and machine learning.
 
 
 ## 💻 Technical Skills
