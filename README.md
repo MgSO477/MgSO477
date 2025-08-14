@@ -5,11 +5,10 @@ Welcome to my GitHub profile! I'm a Statistics and Economics third-year student 
 
 ## 💻 Technical Skills
 - Programming Languages:
-- Experienced in R and Python
-- Currently learning SQL
+- Experienced in R, Python and SQL
 
 ## 🔧 Tools & Frameworks:
-Familiar with data visualization, machine learning, linear regression and GitHub for version control.
+Familiar with data visualization, machine learning, linear regression and Version control.
 
 ## 🌟 Interests
 I'm particularly interested in exploring opportunities in:
