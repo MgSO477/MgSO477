@@ -1,4 +1,4 @@
-# Hi, I'm Cece 
+# Here is Cece
 
 I'm a Statistics and Economics student at the University of British Columbia, with interests in data analytics, statistical modeling, and research-driven data work.
 
