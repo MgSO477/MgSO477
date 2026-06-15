@@ -11,7 +11,6 @@ I'm a Statistics and Economics student at the University of British Columbia, wi
 * Statistical analysis
 * Regression modeling
 * Data visualization
-* Git and GitHub
 
 ## Interests 🌱
 
